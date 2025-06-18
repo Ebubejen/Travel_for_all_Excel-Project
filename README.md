@@ -6,9 +6,9 @@ Using a clean and interactive dashboard, this project summarizes key metrics der
 
 ### Table of Contents
 - [Data Sources](#data-sources)
-- [Tools Used](tools-used)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - 
 
 ### 📂 Data Sources
