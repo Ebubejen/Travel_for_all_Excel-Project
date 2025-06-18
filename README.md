@@ -1,10 +1,10 @@
 # Train Transportation Analysis
 
-### Project Overview
+## Project Overview
 This Excel-based data analysis project explores commuter trends at the "Travel For All" train station from January to June 2025. The goal was to uncover usage patterns, demographic distributions, and operational insights to support better transportation planning and user experience.
 Using a clean and interactive dashboard, this project summarizes key metrics derived from raw trip data, including passenger demographics, travel behavior, and station activites
 
-### Table of Contents
+## Table of Contents
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
