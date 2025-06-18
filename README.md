@@ -18,7 +18,7 @@ Using a clean and interactive dashboard, this project summarizes key metrics der
 
 This dataset was a simulated train station data provided for analytical purposes. It contains anonymized trip records, user demographics, and operational details for the period of January to June 2025.
 
-### Tools Used
+### 🛠️ Tools Used
 
 - Microsoft Excel
   
@@ -30,14 +30,14 @@ This dataset was a simulated train station data provided for analytical purposes
   
   Slicers for interactive filtering
 
-### Data Cleaning and Preparation  
+### 🧹 Data Cleaning and Preparation  
 In the intial data preparation phase, I performed the following tasks:
 
 1. Removed duplicate rows and irrelevant entries (e.g. empty or cancelled trips)
 2. Handled missing values by removing or imputing where necessary
 3. Converted data types when needed for analysis
 
-### Exploratory Data Analysis
+### 🔎 Exploratory Data Analysis
 
 Exploratory Data Analysis was performed to understand usage patterns, user demographics, and temporal trends in train station activity. Key areas of exploration included:
 
@@ -51,12 +51,12 @@ Exploratory Data Analysis was performed to understand usage patterns, user demog
 - Station Activity
    -  Top 10 Start Stations based on usage
 
-### Data Analysis 
+### 📊  Data Analysis 
 
 - Pivot table were used to Summaries data and compare catergories.
 - Charts/Graphs like line graphs, pie charts,Column shart and many more were used to visualize trends and patterns.
 
-### Results and Findings
+### 📌 Results and Findings
 
 The following insights were derived:
 
@@ -73,7 +73,7 @@ The following insights were derived:
    - Total Revenue, Average Trip Duration, and Average Trips per Week were calculated and presented dynamically via slicers.
    - These KPIs allow decision-makers to interact with the dashboard and view performance across time and user segments.
 
-### Recommendations
+### ✅ Recommendations
 
 Based on the analysis, I recommend the following actions:
 
@@ -83,7 +83,7 @@ Based on the analysis, I recommend the following actions:
 - Since one gender is significantly underrepresented that is female users, consider marketing campaigns, safety initiatives, or feedback surveys to understand barriers and encourage balanced ridership.
 - Use the monthly and weekly trends to improve train availability during known peaks (e.g., end-of-month rushes or holiday weekends).
 
-### Limitations
+### ⚠️ Limitations
 
 1. The dataset only covers January to June 2025, which may not reflect seasonal variations or annual trends.
 2. Revenue figures were estimated based on assumed rates, as actual fare data per trip or user was not provided.
