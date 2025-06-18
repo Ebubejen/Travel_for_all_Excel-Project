@@ -9,7 +9,10 @@ Using a clean and interactive dashboard, this project summarizes key metrics der
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- 
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### 📂 Data Sources
 
@@ -53,7 +56,7 @@ Exploratory Data Analysis was performed to understand usage patterns, user demog
 - Pivot table were used to Summaries data and compare catergories.
 - Charts/Graphs like line graphs, pie charts,Column shart and many more were used to visualize trends and patterns.
 
-### Results/Findings
+### Results and Findings
 
 The following insights were derived:
 
