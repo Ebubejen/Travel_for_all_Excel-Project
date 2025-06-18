@@ -24,6 +24,9 @@ Using a clean and interactive dashboard, this project summarizes key metrics der
 
 This dataset was a simulated train station data provided for analytical purposes. It contains anonymized trip records, user demographics, and operational details for the period of January to June 2025.
 
+Download here
+- <a href="https://github.com/Ebubejen/Travel_for_all_Excel-Project/blob/main/Travel_for_all%20Data%20Set.xlsx">Dataset</a>
+
 ###  Tools Used
 
 - Microsoft Excel
